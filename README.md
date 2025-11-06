@@ -1,5 +1,5 @@
-# Repositorio
-Repositorio para atividades de extenção
+# Repositório
+Repositório para atividade de extenção
 
 # Atividade de extensão dev+git
 
