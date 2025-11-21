@@ -4,7 +4,13 @@ Repositório para atividade de extenção
 # Atividade de extensão dev+git
 
 ## Nome do ecommerce:
-Level Up Games
+DevShop
+
+---
+
+### Integrantes da Equipe
+
+Link do site: https://repositorio-citv.onrender.com
 
 ---
 
