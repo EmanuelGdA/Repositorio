@@ -27,8 +27,6 @@ Link do site: https://repositorio-citv.onrender.com
 ### Tecnologias Utilizadas
 *   HTML
 *   CSS
-*   PHP
-*   MySQL
 
 ---
 
