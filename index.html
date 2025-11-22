@@ -32,7 +32,11 @@
         .product-image { background-color: #ddd; height: 150px; margin-bottom: 15px; border-radius: 4px; display: flex; align-items: center; justify-content: center; color: #666; }
         
         button { background-color: var(--accent-color); color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; margin-top: 10px; }
-        button:hover { background-color: #2980b9; }
+        button:hover { 
+    background-color: #2980b9; 
+    transform: scale(1.1); /* Faz o botão crescer 10% */
+    transition: 0.2s;      /* Deixa a animação suave */
+}
 
         footer { background-color: var(--primary-color); color: white; text-align: center; padding: 20px 0; margin-top: 40px; }
     </style>
@@ -107,3 +111,4 @@
 </body>
 
 </html>
+
